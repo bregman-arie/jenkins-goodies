@@ -2,16 +2,6 @@
 
 A collection of Jenkins resources, scripts and other goodies for you to explore. Enjoy! :)
 
-## Scripts - How to run
-
-There are several ways to run the snippets in this repository. The quickest would be:
-
-    1. Go to https://<Jenkins_URL>/script
-    2. Paste the script
-    3. Click on "Run"
-    4. Enjoy :)
-
-
 ## Books
 
 Title | Author | Comments
@@ -27,6 +17,12 @@ Title | Author | Comments
 [The Need For Jenkins Pipeline](https://www.cloudbees.com/blog/need-jenkins-pipeline) | Viktor Farcic | Great article. Recommended.
 [Jenkins Pipeline](https://www.cloudbees.com/blog/jenkins-pipeline) | Viktor Farcic | Another great article from Victor.
 
+## Scripts
+
+Repository | Comments
+:------ |:------:
+[pipeline-examples](https://github.com/jenkinsci/pipeline-examples) | |
+[This Repository](https://github.com/bregman-arie/jenkins-goodies/tree/master/scripts) | |
 
 ## Presentations
 
