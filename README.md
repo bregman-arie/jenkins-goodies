@@ -21,7 +21,7 @@ Title | Author | Comments
 
 Repository | Comments
 :------ |:------:
-[pipeline-examples](https://github.com/jenkinsci/pipeline-examples) | |
+[pipeline-examples](https://github.com/jenkinsci/pipeline-examples) | The [HTML](https://jenkins.io/doc/pipeline/examples) version |
 [This Repository](https://github.com/bregman-arie/jenkins-goodies/tree/master/scripts) | |
 
 ## Presentations
