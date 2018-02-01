@@ -6,7 +6,7 @@
 * It's considered to be better than freestyle type because it's implemented
   in code, survives restarts and can be extended easily.
 
-* There are two types of pipelines: 1. Declarative 2. Scripted
+* Pipeline supports two syntaxes, Declarative and Scripted.
 
 * [Here](https://github.com/bregman-arie/jenkins-goodies/blob/master/pipeline/basic_declarative_pipeline) is an example for simple declarative pipeline
 
